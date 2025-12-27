@@ -231,7 +231,7 @@
                               className: "!size-[48px] px-0 bg-[#E3E3E3]",
                               onClick: () => {
                                 window.open(
-                                  "https://x.com/Xbitpepe",
+                                  "https://x.com/bitpepe2",
                                   "_blank"
                                 );
                               },
@@ -245,7 +245,7 @@
                               className: "!size-[48px] px-0 bg-[#E3E3E3]",
                               onClick: () => {
                                 window.open(
-                                  "https://t.me/bitpepegroup",
+                                  "https://t.me/bitpepe2",
                                   "_blank"
                                 );
                               },
