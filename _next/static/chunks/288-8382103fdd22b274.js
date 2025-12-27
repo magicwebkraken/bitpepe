@@ -1726,7 +1726,7 @@
         u = t(28423),
         s = t(32126),
         l = t(27158);
-      let d = "0xcomingsoon",
+      let d = "0xB3560954547BBFF4E0c5Ae0eD0a99ab822484964",
         p = async (f, e, t) => {
           let n = await f.getLatestBlockhash(),
             a = new l.$Z({
